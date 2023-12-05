@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/recipe-box/)/static/css/main.d8448634.css",
+    "main.js": "/recipe-box/)/static/js/main.fa794360.js",
+    "index.html": "/recipe-box/)/index.html",
+    "main.d8448634.css.map": "/recipe-box/)/static/css/main.d8448634.css.map",
+    "main.fa794360.js.map": "/recipe-box/)/static/js/main.fa794360.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8448634.css",
+    "static/js/main.fa794360.js"
+  ]
+}
